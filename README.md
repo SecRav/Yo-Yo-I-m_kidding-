@@ -2,7 +2,7 @@
 
 ## Thia Repo contains the Challenge for SecRaven Batch B 
 
-# THE LIGHT IS YOUR FIRST GUIDE
+### THE LIGHT IS YOUR FIRST GUIDE
 
 1. I hide secrets within files, deep inside, No hint on the surface, where they reside. I blend with the image, sound, or text, What tool am I, that makes things perplexed?
 
